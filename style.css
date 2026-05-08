@@ -1,0 +1,46 @@
+    body{
+      /*Parte mais Importante do código, é onde se define a cor de fundo, a cor da letra e o alinhamento do texto*/
+      background: #100d1c;
+      color: white;
+      text-align: center;
+    }
+     h1{
+      /* Definição de estilo para os títulos principais */
+      color: lightyellow;
+      padding: 18px;
+      margin: 18px;
+      font-size: calc(39px);
+    }
+    h2{
+      color: yellow;
+      font-size: 39px;
+    }
+    p{
+      /* Parágrafo */
+      padding: 13px;
+      text-align: left;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      margin-left: 10px;
+    } 
+     li{
+      font-size: larger;
+      margin-bottom: 10px; 
+      text-align: left;
+    }
+     blockquote{
+      /* Definição de estilo para citações */
+      border-left: 4px solid rgb(78, 79, 78);
+      border-right: 4px solid rgb(78, 79, 78);
+      margin-left: 0;
+      margin-right: 0;
+      padding-left: 15px;
+      padding-right: 15px;
+      font-size: larger;
+    }
+     img{
+      /* Definição de estilo para imagens e responsividade */
+      display: block;
+      margin: auto;
+    }
+    
+    
